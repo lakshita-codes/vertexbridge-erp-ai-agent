@@ -4,7 +4,7 @@ AI-powered ERP Transformation Intelligence Platform built using Streamlit, Panda
 
 ## Live Application
 
-[Launch ERP AI Agent]([YOUR_STREAMLIT_LINK_HERE](https://vertexbridge-erp-ai.streamlit.app/))
+[Launch ERP AI Agent]((https://vertexbridge-erp-ai.streamlit.app/))
 
 ---
 
